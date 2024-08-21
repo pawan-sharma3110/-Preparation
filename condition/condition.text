@@ -1,0 +1,22 @@
+## Conditional Statements in Go: if, else, and else if
+
+1. if Statement
+Purpose: Executes a block of code if its condition evaluates to true
+
+if condition {
+    // Code to execute if condition is true
+}
+
+
+
+2.  else Statement 
+Purpose: Executes a block of code if the if condition is false.
+
+if condition {
+    // Code to execute if condition is true
+} else {
+    // Code to execute if condition is false
+}
+
+
+Purpose: Provides additional conditions to check if the initial if condition is false.
